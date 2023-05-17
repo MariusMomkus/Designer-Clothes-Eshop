@@ -1,5 +1,5 @@
 # Designer-Clothes-Eshop
-VueJS 
+VueJS + FireBase For Registration and Sign In
 
 
 ![image](https://github.com/MariusMomkus/Designer-Clothes-Eshop/assets/72971009/5abd2f65-aa72-4a22-8ee3-d4753e5fd61d)
